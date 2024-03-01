@@ -1,0 +1,24 @@
+Êþº¾   @ 0
+       java/lang/Object <init> ()V	  	  
+ 
+  java/lang/System out Ljava/io/PrintStream;  "Congratulation you have full marks
+       java/io/PrintStream  println (Ljava/lang/String;)V  )Congratulation you have almost full marks  &Congratulation you have done very well  !Congratulation you have done well  you got only half marks  /yougot less the half marks  you need to do more   (you have to got low marks ,see a teacher " )you have got very low marks,see a teacher $ $you only got one marks,see a teacher & you have failed abysmally  ( State Code LineNumberTable main ([Ljava/lang/String;)V 
+StackMapTable 
+SourceFile 
+State.java   '            )        *· ±    *        	 + ,  )  >     ³
+<ª      ¦      
+   ›      …   z   o   d   Y   N   C   8²  
+¶ § n²  ¶ § c²  ¶ § X²  ¶ § M²  ¶ § B²  ¶ § 7²  ¶ § ,²  ¶ § !²  !¶ § ²  #¶ § 
+²  %¶ ±    *   b       <  D   G 	 O 
+ R 
+ Z  ]  e  h  p  s  {  ~  †  ‰  ‘  ”  œ   Ÿ " § # ª % ² ' -    ü <
+
+
+
+
+
+
+
+
+
+   .    /

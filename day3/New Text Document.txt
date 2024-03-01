@@ -1,0 +1,7 @@
+class msg{
+public.static.void.main(String arg[]){
+for(i=10,i<=20;i++);
+System.out.println("enter the print value:"+i);
+}
+}
+
